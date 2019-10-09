@@ -10,12 +10,12 @@ Source: https://gym.openai.com/envs/CartPole-v1/
 
 ## :rocket: How to start the game?
 
-To download and install the dependencies (only works on mac os or Linux):
+To download and install the dependencies (only works on macOS or Linux):
 ```
 pip install -r requirements.txt
 ```
-To install PyTorch on Windows: 
-https://pytorch.org/get-started/locally/
+To install PyTorch on Windows: https://pytorch.org/get-started/locally/
+
 To launch the game:
 ```
 ipython game.py
